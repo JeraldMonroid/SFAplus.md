@@ -14,4 +14,4 @@ Version updates:
    - ECMF postal code is now required.
    - Sync message now includes batch discount
 
-Jay Fuego
+Uploaded by: Jay Fuego
