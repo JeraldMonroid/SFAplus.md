@@ -4,7 +4,7 @@ release date: March 26, 2026
 Version updates:
 
 ✅ **Bug Fixes**
-  - Bug fix contact cellnumber did not save.
+  - Bug fix contact cellnumber did not save Contact User.
   - Resolved minor UI inconsistencies in dialog message handling.
 
 🚀 **Improvements**
